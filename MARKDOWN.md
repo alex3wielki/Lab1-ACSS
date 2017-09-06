@@ -11,4 +11,4 @@ Below is an example of an array of objects and how to display it using console.t
  15 
  16 console.table(potatoes);  
 ```
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Potato storm!](https://imgur.com/lBGSXUp)
