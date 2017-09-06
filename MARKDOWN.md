@@ -1,4 +1,4 @@
-#How to Create a README.md using Markdown
+# How to Create a README.md using Markdown
 1. New repository
 1. Type repository name
 1. Check checkbox 'Initialize this repository with a README'
